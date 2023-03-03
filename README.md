@@ -39,7 +39,8 @@ This app was created by [Batınay Ünsel](https://github.com/batinay1337) as a l
 
 ## Screenshots
 
-
+<img src="https://github.com/batinay1337/Current-Week/blob/main/ScreenShots/CurrentWeekMain.png?raw=true" alt="Main Screen" width="300">
+<img src="https://github.com/batinay1337/Current-Week/blob/main/ScreenShots/CurrentWeekCalendar.png?raw=true" alt="Calendar Screen" width="300">
 
 ## Feedback
 
