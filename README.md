@@ -1,7 +1,9 @@
 
-# Current Week Project
+# Current Week
 
 The Current-Week SwiftUI project is a simple iOS app that displays the current week number and the corresponding dates for the selected week. This app is built using the SwiftUI framework, which provides an easy way to create user interfaces for iOS apps.
+
+<img src="https://github.com/batinay1337/Current-Week/blob/main/ScreenShots/project.gif?raw=true" alt="Main Screen" width="300">
 
 ## Features
 
